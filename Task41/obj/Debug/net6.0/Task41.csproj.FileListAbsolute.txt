@@ -1,0 +1,15 @@
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\bin\Debug\net6.0\Task41.exe
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\bin\Debug\net6.0\Task41.deps.json
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\bin\Debug\net6.0\Task41.runtimeconfig.json
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\bin\Debug\net6.0\Task41.dll
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\bin\Debug\net6.0\Task41.pdb
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.csproj.AssemblyReference.cache
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.AssemblyInfoInputs.cache
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.AssemblyInfo.cs
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.dll
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\refint\Task41.dll
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.pdb
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\Task41.genruntimeconfig.cache
+C:\Users\KSYU\Desktop\ДЗ по С#\Seminar_6\Task41\obj\Debug\net6.0\ref\Task41.dll
